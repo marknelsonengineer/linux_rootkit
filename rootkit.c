@@ -1,6 +1,8 @@
 #include <linux/module.h>
 #include <linux/kernel.h>
 
+#include "ftrace_helper.h"
+
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("A Lunatic Scotsman");
 MODULE_DESCRIPTION("My first rootkit");
